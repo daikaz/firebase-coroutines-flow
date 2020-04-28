@@ -1,0 +1,3 @@
+rootProject.name='firebase-coroutines-flow'
+include ':app'
+include ':library'
